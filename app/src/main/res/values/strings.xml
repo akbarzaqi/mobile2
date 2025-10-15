@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">pert2</string>
+    <string name="button">Button</string>
+    <string name="text1">View danau toba</string>
+    <string name="subtext1">Danau Toba adalah danau vulkanik terbesar di Indonesia, terletak di Sumatera Utara. Terbentuk dari letusan besar ribuan tahun lalu, dan di tengahnya terdapat Pulau Samosir yang kaya budaya Batak.</string>
+    <string name="text2">Uji Coba Ke-11 Starship SpaceX Sukses Meluncur dari Texas</string>
+    <string name="subtexs2">Roket Starship milik SpaceX sukses menjalani uji coba ke-11 di Starbase, Texas, pada Senin (13/10). Uji ini menguji desain ulang roket yang dapat digunakan kembali untuk misi ke Bulan dan Mars, dan Starship berhasil mendarat aman di Teluk Meksiko.</string>
+    <string name="text3">7 Tips Ilmiah untuk Menjalani Hidup Lebih Lama dan Sehat</string>
+    <string name="subtexs3">Ia menegaskan bahwa penuaan bisa diperlambat bahkan dibalik melalui gaya hidup sehat, bukan faktor genetik semata. Beberapa prinsip utamanya meliputi: menjaga pola makan bergizi seperti diet Mediterania, rutin berolahraga sebagai “biohack” terbaik, serta memastikan kualitas tidur yang baik. Dengan perubahan perilaku sederhana, seseorang dapat menambah usia sehat bebas penyakit hingga beberapa tahun.</string>
 </resources>
